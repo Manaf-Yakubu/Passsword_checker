@@ -14,7 +14,7 @@ A cybersecurity-themed password generator and strength checker that prioritizes 
 - **Smart Options**: Avoid ambiguous characters, memorable patterns
 - **Passphrase Mode**: Generate word-based passwords (3-8 words)
 - **Secure Generation**: Uses `crypto.getRandomValues()` for cryptographic randomness
-
+...............................
 ### Password Strength Checker
 - **Real-time Analysis**: Instant feedback as you type
 - **Comprehensive Scoring**: 0-100 scale with detailed breakdown
